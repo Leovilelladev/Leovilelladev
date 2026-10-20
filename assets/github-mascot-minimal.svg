@@ -1,0 +1,37 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mascote minimalista de Leonardo Vilella</title>
+  <desc id="desc">Uma raposa geométrica escura com detalhes verde-limão e violeta.</desc>
+  <circle cx="256" cy="256" r="226" fill="#0D0F10" stroke="#D8F566" stroke-width="6"/>
+
+  <path d="M126 202L136 82L232 150L126 202Z" fill="#272C2F"/>
+  <path d="M386 202L376 82L280 150L386 202Z" fill="#272C2F"/>
+  <path d="M143 163L145 119L199 157L143 163Z" fill="#F0E7D5"/>
+  <path d="M369 163L367 119L313 157L369 163Z" fill="#F0E7D5"/>
+  <path d="M147 154L143 119L176 142L147 154Z" fill="#D8F566"/>
+  <path d="M365 154L369 119L336 142L365 154Z" fill="#D8F566"/>
+
+  <path d="M112 244C112 170 173 130 256 130C339 130 400 170 400 244C400 332 341 388 256 388C171 388 112 332 112 244Z" fill="#272C2F"/>
+  <path d="M119 265C142 322 187 351 232 354C208 371 177 367 151 345C132 329 119 302 119 265Z" fill="#F0E7D5"/>
+  <path d="M393 265C370 322 325 351 280 354C304 371 335 367 361 345C380 329 393 302 393 265Z" fill="#F0E7D5"/>
+
+  <path d="M160 228C178 205 213 205 232 228C214 245 179 245 160 228Z" fill="#F0E7D5"/>
+  <path d="M280 228C299 205 334 205 352 228C333 245 298 245 280 228Z" fill="#F0E7D5"/>
+  <ellipse cx="198" cy="231" rx="19" ry="24" fill="#D8F566"/>
+  <ellipse cx="314" cy="231" rx="19" ry="24" fill="#D8F566"/>
+  <ellipse cx="198" cy="234" rx="8" ry="14" fill="#0D0F10"/>
+  <ellipse cx="314" cy="234" rx="8" ry="14" fill="#0D0F10"/>
+  <circle cx="201" cy="226" r="3" fill="#F1F2EE"/>
+  <circle cx="317" cy="226" r="3" fill="#F1F2EE"/>
+
+  <path d="M238 273C248 265 264 265 274 273L266 290C260 296 252 296 246 290L238 273Z" fill="#0D0F10"/>
+  <path d="M256 289V306" stroke="#0D0F10" stroke-width="5" stroke-linecap="round"/>
+  <path d="M256 306C239 324 219 319 208 307M256 306C273 324 293 319 304 307" stroke="#0D0F10" stroke-width="5" stroke-linecap="round"/>
+  <path d="M145 272C160 286 174 291 191 292" stroke="#9A62FF" stroke-width="7" stroke-linecap="round"/>
+  <path d="M367 272C352 286 338 291 321 292" stroke="#9A62FF" stroke-width="7" stroke-linecap="round"/>
+
+  <path d="M151 379C181 358 218 350 256 350C294 350 331 358 361 379L398 452H114L151 379Z" fill="#1B2022"/>
+  <path d="M256 369L294 407L256 451L218 407L256 369Z" fill="#0D0F10"/>
+  <path d="M245 397L228 414L245 431" stroke="#D8F566" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M267 397L284 414L267 431" stroke="#D8F566" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
+
