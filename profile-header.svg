@@ -1,0 +1,26 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d0f10"/>
+      <stop offset="1" stop-color="#1b2020"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d8f566" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#d8f566"/>
+      <stop offset="1" stop-color="#d8f566" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <path d="M0 232C190 176 280 294 462 227C638 162 757 207 902 132C1039 61 1083 98 1200 42" stroke="#d8f566" stroke-opacity=".14"/>
+  <path d="M0 233C190 177 280 295 462 228C638 163 757 208 902 133C1039 62 1083 99 1200 43" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="902" cy="133" r="5" fill="#d8f566" filter="url(#glow)"/>
+  <circle cx="462" cy="228" r="3" fill="#b6a1ff"/>
+  <text x="72" y="80" fill="#d8f566" font-family="monospace" font-size="13" letter-spacing="3">LEONARDO VILELLA / FRONT-END</text>
+  <text x="72" y="150" fill="#F1F2EE" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-2">Interfaces com intenção.</text>
+  <text x="75" y="192" fill="#969B9D" font-family="monospace" font-size="15">React · TypeScript · Vue · Supabase · UI com propósito</text>
+  <text x="1072" y="248" fill="#d8f566" font-family="monospace" font-size="12" text-anchor="end">KEEP SHIPPING ↗</text>
+</svg>
