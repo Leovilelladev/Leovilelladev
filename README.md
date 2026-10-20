@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/Leovilelladev/Leovilelladev/main/profile-header.svg" alt="Leonardo Vilella — Front-end Developer" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leovilelladev/Leovilelladev/main/assets/github-mascot-v1.png" alt="Mascote do perfil Leonardo Vilella" width="180" />
+</p>
+
 <h1 align="center">Oi, eu sou o Leonardo 👋</h1>
 
 <p align="center">
